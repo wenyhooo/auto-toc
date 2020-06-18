@@ -31,7 +31,7 @@ $ ./gh-md-toc 本地README.md 路径
 
 然后将========下方内容，复制到你的README.md 文件中
 
-然后就像https://github.com/wenyhooo/insurance一样完美支持了目录
+然后就像https://github.com/wenyhooo/insurance 一样完美支持了目录
 
 GitHub Wiki 也同样操作哦   https://github.com/wenyhooo/insurance/wiki
 
